@@ -1,0 +1,1 @@
+sudo wget -O cef_installer.py https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/DataConnectors/CEF/cef_installer.py&&sudo python cef_installer.py 0c2f65c7-d6c4-4f57-9256-2c3b05b10cbe Wjx7qmKBHQjN8mjydWLiiB1nsU6VrxDlKULBfbAIW7GGxO/OnXtnXJXi9Sdao1+nrS+IPFgbHSsqmZz89q1rbA==
